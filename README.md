@@ -23,8 +23,8 @@ To evaluate and compare the predictive performance of:
 - **LSTM (PyTorch):** Recurrent neural network architecture optimized for capturing long-term temporal dependencies.
 
 ## Performance Comparison
-- Linear Regression: MAE: 716.43 MW | RMSE: 956.31 MW
-- LSTM Neural Network: MAE: 698.43 MW | RMSE: 931.18 MW
+- **Linear Regression:** MAE: 716.43 MW | RMSE: 956.31 MW
+- **LSTM Neural Network:** MAE: 698.43 MW | RMSE: 931.18 MW
 
 ## Key Insights
 - The LSTM model captures non-linear temporal dynamics more effectively than the linear baseline.
